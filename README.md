@@ -1,6 +1,4 @@
-# My Awesome Basketball Team
-
-We can change this later
+# About Us Homework 1
 
 About Me Paragraph: Matthew Tenuta
 
